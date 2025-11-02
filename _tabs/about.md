@@ -1,13 +1,16 @@
 ---
-# the default layout is 'page'
+layout: page
 icon: fas fa-info-circle
 order: 4
+title: "About"
+description: "你好，我是 XK"
+header-img: "img/post-bg-rwd.jpg"
 ---
 
 > 冰冻三尺，非一日之寒  
 > 积土成山，非斯须之作
 
-你好，我是 XK，青椒一枚。
+你好，我是 **XK**，青椒一枚。
 
 这个站点由 [GitHub Pages](https://pages.github.com/) 和 [Jekyll](https://jekyllrb.com/) 搭建，用来记录与分享我在学习与工作中的所思所想，沉淀可复用的知识和工具。
 
@@ -36,9 +39,8 @@ order: 4
 
 最后更新：{{ site.time | date: '%Y-%m-%d' }}
 
-<!-- Gitalk 评论 start  -->
+<!-- Gitalk 评论 start -->
 {% if site.gitalk.enable %}
-<!-- Gitalk link  -->
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
 
@@ -58,15 +60,13 @@ order: 4
 {% endif %}
 <!-- Gitalk end -->
 
-<!-- disqus 评论框 start  -->
+<!-- disqus 评论框 start -->
 {% if site.disqus.enable %}
 <div class="comment">
   <div id="disqus_thread" class="disqus-thread"></div>
 </div>
 
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-  /* * * CONFIGURATION VARIABLES * * */
   var disqus_shortname = "{{site.disqus.username}}";
   var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
   var disqus_url = "{{site.url}}{{page.url}}";
@@ -77,5 +77,5 @@ order: 4
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
   })();
 </script>
-<!-- disqus 公共JS代码 end -->
 {% endif %}
+<!-- disqus 评论框 end -->
