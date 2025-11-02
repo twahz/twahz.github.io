@@ -23,7 +23,7 @@ order: 4
 
     <ul>
         <li><a href="https://github.com">GitHub</a></li>
-        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+        <li><a href="https://jekyll.com.cn/">jekyll</a></li>
     </ul>
 </div>
 
