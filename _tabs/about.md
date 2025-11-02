@@ -6,13 +6,6 @@ order: 4
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
-#######################################################################################################
----
-#layout: page
-#title: "About"
-description: "Hey, this is BY."
-#header-img: "img/post-bg-rwd.jpg"
----
 
 <div class="zh post-container">
 
@@ -21,8 +14,6 @@ description: "Hey, this is BY."
     积土成山 非斯须之作</p></blockquote>
 
     <p>Hey，我是<strong>XK(XK)</strong>，青椒一枚。</p>
-    
-    #<p>工作、学习之余，我还是一个健身爱好者，同时也非常喜欢拳击。</p>
 
     <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页<a href="https://github.com/twahz">👉GitHub·BY</a> 👉XK</a>。如果有什么问题，欢迎提出探讨~</p>
 
@@ -33,8 +24,6 @@ description: "Hey, this is BY."
     <ul>
         <li><a href="https://github.com">GitHub</a></li>
         <li><a href="http://jekyll.com.cn/">jekyll</a></li>
-       #<li><a href="http://huangxuan.me/">Hux</a></li> 
-       #<li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
     </ul>
 </div>
 
