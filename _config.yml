@@ -16,14 +16,14 @@ timezone:Asia/Shanghai
 
 title: 天文爱好者 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 天行健，君子以自强不息；地势坤，君子以厚德载物！ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://twahz.github.io"
 
 github:
   username: twahz # change to your GitHub username
