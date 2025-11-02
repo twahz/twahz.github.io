@@ -20,13 +20,7 @@ order: 4
     <p></p>
     
     <h5>Talks</h5>
-
-    <ul>
-        <li><a href="https://github.com">GitHub</a></li>
-        <li><a href="https://jekyll.com.cn/">jekyll</a></li>
-    </ul>
 </div>
-
 
 
 <!-- Gitalk 评论 start  -->
