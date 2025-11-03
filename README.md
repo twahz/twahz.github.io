@@ -33,15 +33,17 @@ Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wi
 
 If you want to customize this blog for your own use, please refer to the following guides:
 
-- **📘 [个人博客定制指南.md](个人博客定制指南.md)** - 详细的中文定制指南 (Detailed Chinese guide)
+- **📋 [FILES_TO_MODIFY.md](FILES_TO_MODIFY.md)** - 需要修改的文件清单 / Files to modify checklist  
+  *(Start here! 从这里开始！)*
+- **📘 [个人博客定制指南.md](个人博客定制指南.md)** - 详细的中文定制指南 / Detailed Chinese guide
 - **📗 [CUSTOMIZATION_GUIDE.md](CUSTOMIZATION_GUIDE.md)** - Comprehensive English customization guide
 - **✅ [QUICK_START_CHECKLIST.md](QUICK_START_CHECKLIST.md)** - 快速检查清单 / Quick start checklist
 
 These guides will help you:
-- Understand which files need to be modified
-- Configure your personal information (name, email, social links)
-- Create your first blog post
-- Set up optional features (comments, analytics, etc.)
+- ✅ Understand which files need to be modified
+- ✅ Configure your personal information (name, email, social links)
+- ✅ Create your first blog post
+- ✅ Set up optional features (comments, analytics, etc.)
 
 ## Contributing
 
