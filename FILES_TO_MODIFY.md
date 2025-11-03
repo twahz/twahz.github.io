@@ -89,6 +89,7 @@ This is the core content of your blog! A blog without posts is not really a blog
 **重要程度 / Priority:** ⭐⭐ 高 / High
 
 **需要做什么 / What to do:**
+- 如果目录不存在，先创建：`mkdir -p assets/img` / If directory doesn't exist, create it first: `mkdir -p assets/img`
 - 添加你的头像图片 / Add your avatar image
 - 建议尺寸：512x512 像素或更大，正方形 / Recommended size: 512x512px or larger, square
 - 在 `_config.yml` 中配置路径 / Configure path in `_config.yml`

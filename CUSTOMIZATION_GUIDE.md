@@ -143,7 +143,21 @@ This is my first blog post...
 
 ### 5. Avatar Image
 
-Place your avatar image in the `assets/img/` directory, then configure it in `_config.yml`:
+**Step 1: Create the img directory**
+
+If the `assets/img/` directory doesn't exist, create it first:
+
+```bash
+mkdir -p assets/img
+```
+
+**Step 2: Add your avatar image**
+
+Copy your avatar image file to the `assets/img/` directory.
+
+**Step 3: Configure in settings**
+
+Then configure the avatar path in `_config.yml`:
 
 ```yaml
 avatar: /assets/img/your-avatar-filename.jpg
